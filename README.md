@@ -1,5 +1,3 @@
-# python
-python
 CREATE
 python3 -m venv Desktop/schmeterling/python
 
